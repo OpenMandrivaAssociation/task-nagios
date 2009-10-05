@@ -1,7 +1,7 @@
 Summary:	Metapackage for Nagios(tm)
 Name:		task-nagios
 Version:	0
-Release:	%mkrel 1
+Release:	%mkrel 2
 Group:		System/Servers
 License:	GPL
 BuildArch:	noarch
@@ -73,7 +73,6 @@ Requires:	nagios-check_mrtgtraf
 Requires:	nagios-check_ms_spooler
 Requires:	nagios-check_mssql
 Requires:	nagios-check_mysql
-Requires:	nagios-check_mysql_perf
 Requires:	nagios-check_mysql_query
 Requires:	nagios-check_nagios
 Requires:	nagios-check_netapp
