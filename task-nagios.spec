@@ -1,7 +1,7 @@
 Summary:	Metapackage for Nagios(tm)
 Name:		task-nagios
 Version:	0
-Release:	%mkrel 2
+Release:	%mkrel 3
 Group:		System/Servers
 License:	GPL
 BuildArch:	noarch
@@ -67,9 +67,6 @@ Requires:	nagios-check_mailq
 Requires:	nagios-check_maxchannels
 Requires:	nagios-check_maxwanstate
 Requires:	nagios-check_mem
-Requires:	nagios-check_mrtg
-Requires:	nagios-check_mrtgext
-Requires:	nagios-check_mrtgtraf
 Requires:	nagios-check_ms_spooler
 Requires:	nagios-check_mssql
 Requires:	nagios-check_mysql
