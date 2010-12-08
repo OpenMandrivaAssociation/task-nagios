@@ -1,7 +1,7 @@
 Summary:	Metapackage for Nagios(tm)
 Name:		task-nagios
 Version:	0
-Release:	%mkrel 3
+Release:	%mkrel 4
 Group:		System/Servers
 License:	GPL
 BuildArch:	noarch
