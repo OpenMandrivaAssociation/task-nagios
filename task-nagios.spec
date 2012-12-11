@@ -122,3 +122,25 @@ to run Nagios(tm) seamlessly.
 
 %files
 
+
+
+%changelog
+* Wed Dec 08 2010 Oden Eriksson <oeriksson@mandriva.com> 0-4mdv2011.0
++ Revision: 615113
+- the mass rebuild of 2010.1 packages
+
+* Mon Mar 22 2010 Thierry Vignaud <tv@mandriva.org> 0-3mdv2010.1
++ Revision: 526668
+- nagios-check_mrtg* are no more
+
+* Mon Oct 05 2009 Guillaume Rousse <guillomovitch@mandriva.org> 0-2mdv2010.0
++ Revision: 454327
+- nagios-check_mysql_perf doesn't exist anymore
+
+* Tue May 12 2009 Oden Eriksson <oeriksson@mandriva.com> 0-1mdv2010.0
++ Revision: 374921
+- import task-nagios
+
+
+* Tue May 12 2009 Oden Eriksson <oeriksson@mandriva.com> 0-1mdv2010.0
+- initial Mandriva package
